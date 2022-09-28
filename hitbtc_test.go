@@ -3,7 +3,7 @@ package hitbtc_test
 import (
 	"testing"
 
-	hitbtc "github.com/childlycorp/alpha-hitbtc-connector"
+	hitbtc "github.com/mountalpha/alpha-hitbtc-connector"
 	"github.com/stretchr/testify/require"
 )
 
