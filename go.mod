@@ -1,4 +1,4 @@
-module github.com/childlycorp/alpha-hitbtc-connector
+module github.com/mountalpha/alpha-hitbtc-connector
 
 go 1.17
 
