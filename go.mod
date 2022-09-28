@@ -1,4 +1,4 @@
-module github.com/mountalpha/alpha-hitbtc-connector
+module github.com/mountalpha/basecamp-hitbtc-connector
 
 go 1.17
 
